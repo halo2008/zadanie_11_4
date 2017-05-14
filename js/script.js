@@ -3,7 +3,6 @@ function Telefon(marka, cena, kolor, ram){
 	this.cena = cena;
 	this.kolor = kolor;
 	this.ram = ram;
-
 }
 
 Telefon.prototype.printInfo = function() {
